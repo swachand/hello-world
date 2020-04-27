@@ -33,12 +33,12 @@
     <repository>
       <id>nexus</id>
       <name>Nexus Releases</name>
-      <url>http://54.197.67.237:8081/repository/nexus-relese/</url>
+      <url>http://3.86.202.133:8081/repository/nexus-relese/</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
       <name>Nexus Snapshot</name>
-      <url>http://54.197.67.237:8081/repository/nexus-snap/</url>
+      <url>http://3.86.202.133:8081/repository/nexus-snap/</url>
     </snapshotRepository>
     <site>
       <id>nexus</id>
