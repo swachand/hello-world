@@ -31,13 +31,13 @@
   
   <distributionManagement>
     <repository>
-      <id>nexus</id>
-      <name>Nexus Releases</name>
+      <id>nexus-relese</id>
+      <name>nexus-relese</name>
       <url>http://3.86.202.133:8081/repository/nexus-relese/</url>
     </repository>
     <snapshotRepository>
-      <id>nexus</id>
-      <name>Nexus Snapshot</name>
+      <id>nexus-snap</id>
+      <name>nexus-snap</name>
       <url>http://3.86.202.133:8081/repository/nexus-snap/</url>
     </snapshotRepository>
     <site>
